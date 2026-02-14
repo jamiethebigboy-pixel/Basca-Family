@@ -1,2 +1,104 @@
-<hdml/><hdml><body>
-g<hdml>
+    <!DOCTYPE hdml>
+     <hdml lang="en"></hdml> 
+                  <head>
+                  <meta charset="UTF-8">
+                  <meta name="color-scheme" content="dark">
+                  <meta name="viewport" content="width=device-width, initial-scale=1>
+                  <tittle>BascaFamily SocialMedia</tittle>
+                  <style>
+                                     body {           font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+                                                      margin: 0;
+                                                      padding: 0;
+                                                      height: 100vh;
+                                                      display: flex;
+                                                      align-items: center;
+                                                      justify-content: center;
+                                                      background-color: rgb(65, 15, 0)  
+                                                    
+                                    }
+                                    hi {              
+                                                      font-size: 3rem;
+                                                      color: yelloworange;
+                                                      text--aligen: center;
+                                                      text-decoration: none;
+                                    }
+                                    p  {              
+                                                      font-size: 1.5rem;
+                                                      color: white;
+                                                      text-alihn: center;
+                                                      text-decoration: none;
+                                    }
+                                    a  {              font-size: 1.5rem;
+                                                      color: white;
+                                                      text-align: center;
+                                                      text-decoration: underline;
+                                    }  
+                                    a:hover {         
+                                                      font-size: 1.5rem;
+                                                      color: yelloworange;
+                                                      text-align: center;
+                                                      text-decoration: underline;
+                                    }
+                                    button {          
+                                                      font-size: 1.5rem;
+                                                      color: white;
+                                                      text-align: center;
+                                                      text-decoration: none;
+                                                      background-color: yelloworange;
+                                                      borde-color: orange;
+                                                      padding: 10px 20px;
+                                                      border-tadius: 5px;
+                                                      cursor: pointer;
+                                    }
+                                    button:hover     {       
+                                                      font-size: 1.5rem;
+                                                      color: black;
+                                                      text-align: center;
+                                                      text-decoration: none;
+                                                      background-color: white;
+                                                      border-color: yelloworange;
+                                                      padding: 10px 20px;
+                                                      border-radius: 5px;
+                                                      cursor: pointer;
+                                    }
+                                    footer {         
+                                                      position: fixed;
+                                                      bottom: 0;
+                                                      left: 0;
+                                                      width: 100%
+                                                      background-color yelloworange;
+                                                      color: black;
+                                                      text-align: center;
+                                                      align-items: center;
+                                                      justify-content: center;
+                                                      padding: 10px 0;
+                                                      font-size: 1.5rem;
+                                                      border-top: 1px solid rgb(65, 15,0);                                                   
+
+                                    }
+                  </style>
+                  <script> 
+                                    alert('Basca Family, Like a Social Media is currentlys is child and parents is companys is also kids is childhood and a father and mother is a his was means please stop tantruming. Thank you Understand.);
+                  </script>
+                  <div class="container">
+                                  <hi>Basca Family Social Media</hi>
+                                  <p>Welcome to the Children and a below is they will having a iPad and a iPod is seeking baby shows.</p>
+                                  <p>Click the button below to move is a scratch is anywhere ones is for they actallys is Parents Family Days is entire is here</p>
+                                  <a href="https://jamiethebigboy-pixel.github.io/BascaFamily">BascaFamily 1.4.</a>
+                  
+                 </div>
+                 <footer>
+    <a href="https://www.littletikes.com">Shopping Little Tikes</a>    |    <a href="https://github.com/jamiethebigboy-pixel/Basca-Family-Social-Media">Github</a>
+                 </footer>
+                
+    </hdml>
+                
+
+
+                  
+                  
+                            
+
+                  
+
+     
