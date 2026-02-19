@@ -23,6 +23,6 @@ vercamy, Basca, Dad Basca, Mom Basca, Austrio, and a they will comparison
 Socal Media and a seeking before the period the future basca family Future of the kuh is a another best parents and a 
 kids and a job a family is here is you came into a yourself is a Alternatively is elements is page all own you contents is a seeking period is a toggles keys they days is a having google support is his names parents is even is 
 theme song even the recommended basca family system themes
-https://tumblr.com/blog/jamiethebigboy
+https://tumblr.com/jamiethebigboy
 
 
